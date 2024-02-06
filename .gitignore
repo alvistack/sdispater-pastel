@@ -26,4 +26,4 @@ profile.html
 /wheelhouse
 
 .python-version
-setup.py
+.pybuild/
