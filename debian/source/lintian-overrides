@@ -1,0 +1,4 @@
+python-pastel source: file-without-copyright-information
+python-pastel source: no-debian-changes
+python-pastel source: source-contains-prebuilt-windows-binary
+python-pastel source: source-package-encodes-python-version
